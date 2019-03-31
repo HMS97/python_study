@@ -9,3 +9,5 @@
 作业啥的都用notebook提交
 
 遇到问题问百度
+
+vpn ssr 推荐 https://keng.bi/   谷歌比百度更高效
