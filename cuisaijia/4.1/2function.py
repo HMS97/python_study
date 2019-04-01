@@ -1,22 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[2]:
-
-
 # -*- coding: utf-8 -*-
-
-
-# In[3]:
-
 
 import numpy as np
 
 m=[10,20,30]
 n={'Bob':80,'Mary':90,'Jack':76}
-
-
-# In[15]:
 
 
 def adds():
@@ -36,32 +25,5 @@ def adds():
     return s
 
 
-# In[18]:
-
-
 adds()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
